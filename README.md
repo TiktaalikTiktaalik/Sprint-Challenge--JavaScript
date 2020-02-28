@@ -29,7 +29,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead
 
 1. Describe the biggest difference between `.forEach` & `.map`.
-forEach return is decided by its callback while map returns a new string
+forEach return is decided by its callback while map returns a new array
 
 2. What is the difference between a function and a method?
 a method is a function inside a class or object
