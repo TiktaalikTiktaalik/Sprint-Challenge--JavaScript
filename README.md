@@ -29,14 +29,22 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead
 
 1. Describe the biggest difference between `.forEach` & `.map`.
+forEach return is decided by its callback while map returns a new string
 
 2. What is the difference between a function and a method?
+a method is a function inside a class or object
 
 3. What is closure?
+an inner function with reference to outside function variables
 
 4. Describe the four rules of the 'this' keyword.
+-in global scope this points to the window / console
+-this in a function constructor refers to a specific instance
+-implicit binding: this points to left side of dot / or within an object it's called
+-explicit binding: using a method such as call() to explicitly bind this to a specific object
 
 5. Why do we need super() in an extended class?
+it allows a child class to resolve variables from its parent class
 
 ## Project Set up
 
